@@ -1,15 +1,15 @@
 Challenge 1:
-Reasoning:
+Reasoning: Acceder avec une commande aux users qui se sont connectes, et on en retrouve deux.
 
-Flag:
+Flag: Workshop-PoC|BrunoDeChezPoc
 
 
 ==========
 
 Challenge 2:
-Reasoning:
+Reasoning: Afficher la liste des requetes et voir celle qui a ete realiser plusieurs fois.
 
-Flag:
+Flag: 7912
 
 
 ===========
