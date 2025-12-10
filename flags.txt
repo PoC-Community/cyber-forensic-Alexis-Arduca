@@ -1,7 +1,7 @@
 Challenge 1:
 Reasoning: Acceder avec une commande aux users qui se sont connectes, et on en retrouve deux.
 
-Flag: Workshop-PoC|BrunoDeChezPoc
+Flag: PoC{Workshop-PoC|BrunoDeChezPoc}
 
 
 ==========
@@ -9,7 +9,7 @@ Flag: Workshop-PoC|BrunoDeChezPoc
 Challenge 2:
 Reasoning: Afficher la liste des requetes et voir celle qui a ete realiser plusieurs fois.
 
-Flag: 7912
+Flag: PoC{7912,python.exe} (je suppose que c'est lui l'owner)
 
 
 ===========
